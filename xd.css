@@ -193,7 +193,7 @@ code {
     background: var(--brand-experiment-560) !important;
 }
 
-.container-20TyK0 .message-3C6JQ1 {
+.container-20TyK0 .-3C6JQ1 {
     font-weight: 400;
 }
 
@@ -292,11 +292,6 @@ code {
 
 .content-1jQy2l {
     box-shadow: var(--02dpShadow);
-}
-
-.groupStart-3Mlgv1.cozyMessage-1DWF9U .contents-2MsGLg,
-.cozyMessage-1DWF9U:not(.groupStart-3Mlgv1) .contents-2MsGLg > .markup-eYLPri:not(:empty, .searchResultsWrap-5RVOkx *) {
-    box-shadow: var(--04dpShadow);
 }
 
 .expandedFolderBackground-1kSAf6,
